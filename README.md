@@ -2,7 +2,7 @@
 useful brain storming stegnography , cryptography have fun!!
 
 
-### tools used for solving:exiftool,steghide,binwalk,vim lookup,strings ,lots of online qr,base16,hex,xor decoder ,wireshark for analysing the packet
+### tools used for solving:exiftool,steghide,binwalk,vim lookup,strings ,lots of online qr,base16,hex,xor,caeser cipher,rot13,hex to ascii,vigenere cipher decoder ,wireshark for analysing the packet
 
 ## these are the flags finded during solving:
 #ctf collection vol 1
